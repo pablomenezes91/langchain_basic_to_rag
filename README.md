@@ -55,7 +55,7 @@ Crie uma chain que carrega um PDF (FAQ), divide em chunks, armazena em um vector
 ```
 ├── README.md
 ├── respostas/
-│   ├── desafios.ipynb
+│   ├── desafios_claude.ipynb
 └── arquivos/
     └── faq.pdf
 ```
